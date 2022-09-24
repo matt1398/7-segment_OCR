@@ -121,7 +121,7 @@ def recognize_digit(digit_positions, output_img, input_img, original_img):
 	return digits
 
 def main():
-	for i in range(1, 16):
+	for i in range(1, 8):
 		path = ("segment_ex/segment-%s.jpg" %i)
 		original = cv2.imread(path)
 		blurred, gray_img, cutted_img = load_image(path)
