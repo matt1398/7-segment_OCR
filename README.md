@@ -5,6 +5,10 @@ Project for recognizing 7-segment LED display.
 
 2. The numbers will be printed.
 
+Requirements:
+pip install opencv-python
+pip install numpy
+pip install imutils
 
 ![image](https://user-images.githubusercontent.com/113107082/192075242-43dbbb8a-8667-4fe0-814d-d16236fd5751.png)
 
