@@ -1,5 +1,7 @@
 # 7-segment_OCR
+
 Project for recognizing 7-segment LED display. 
+
 
 1. If you run the file, drag rectangular that encloses all of the numbers.
 
@@ -8,9 +10,10 @@ Project for recognizing 7-segment LED display.
 
 
 Requirements:
-pip install opencv-python,
 
-pip install numpy,
+pip install opencv-python
+
+pip install numpy
 
 pip install imutils
 
