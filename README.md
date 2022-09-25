@@ -3,20 +3,22 @@
 Project for recognizing 7-segment LED display. 
 
 
-1. If you run the file, drag rectangular that encloses all of the numbers.
+1. Run the file, and drag rectangular that encloses all of the numbers.
 
 
 2. The numbers will be printed.
 
 
-Requirements:
+# Requirements
 
-pip install opencv-python
+1.  opencv
 
-pip install numpy
+2. numpy
 
-pip install imutils
+3. imutils
 
+
+# Results
 
 ![image](https://user-images.githubusercontent.com/113107082/192075242-43dbbb8a-8667-4fe0-814d-d16236fd5751.png)
 
