@@ -11,12 +11,13 @@ Project for recognizing 7-segment LED display.
 
 # Requirements
 
-1.  opencv
+1. opencv-python
 
 2. numpy
 
 3. imutils
 
+4. scipy
 
 # Results
 
